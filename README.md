@@ -6,7 +6,7 @@
   <a href="class3.html">Hand Coded Example</a><br>
   <p>Real content is inbound but...</p><br>
   <p>untill then check out my web site @ </p><a href="https://justinbethea.com">JUSTINBETHEA.COM</a>
-</body>
+  </body> 
 </html>
    
 
