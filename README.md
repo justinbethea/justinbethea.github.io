@@ -1,8 +1,8 @@
 <html><body><h3>Content for this readme is Still in the works,</h3>
  <content><p>I've got one Html/CSS example up, it was hand coded in using a text editor, a thermos of coffee, and bio-memory</p>
- <p> useless but fun </p> <a href="class3.html">HTML_EXAMPLE</a>
+ <p>useless but fun </p> <a href="class3.html">HTML_EXAMPLE</a>
  <p>Real content is inbound but...</p>
-<p>untill check out my site @</p><a href="https://justinbethea.com"> JUSTINBETHEA.COM </a><br>
+<p>untill then check out my web site @</p> <a href="https://justinbethea.com">JUSTINBETHEA.COM </a><br>
 <p>Thanks</p></content>
 </body>
 </html>
