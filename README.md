@@ -5,7 +5,7 @@
   <p><br></p>
  <p>Real content is inbound but...</p>
 <p>untill then check out my web site @</p> <p></a href="https://justinbethea.com">JUSTINBETHEA.COM </a></p>
- <br><p>Thanks</p></content>
+ <br><Thanks</content>
 </body>
 </html>
    
