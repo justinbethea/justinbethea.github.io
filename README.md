@@ -1,4 +1,4 @@
-<html><body><h3>Content for this readme is Still in the works,</h3>
+<html><body><h3>Content for this readme is still in the works,</h3>
  <content><p>I've got one Html/CSS example up, it was hand coded in using a text editor, a thermos of coffee, and bio-memory</p>
  <p>useless but fun </p> <br>
   <a href="class3.html">Hand Coded Example</a> <br>
