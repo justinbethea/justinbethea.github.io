@@ -1,5 +1,6 @@
  <h1>Justin David Bethea on GitHub</h1>
  <h2>Thanks for your interest.</h2>
+ <h2> >> <a href="https://justinbethea.com/?page_id=220">RÉSUMÉ (CV)</a></h2>
  <h3>This readme is still in the works...</h3>
  <H4> <p>Real content is inbound but...<br>
   untill then check out my web site @ </p><a href="https://justinbethea.com">JUSTINBETHEA.COM</a></H4>
